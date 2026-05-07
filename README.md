@@ -92,7 +92,7 @@ Ela implementa `CommandLineRunner`, permitindo que o programa seja executado dir
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:klesleySilvaOliveira/ds-jsp-desafio-1.git
 ```
 
 Acesse a pasta do projeto:
